@@ -10,6 +10,10 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 
 
 ## Lecture 0: Search
+Finding a solution to a problem, like a navigator app that finds the best route from your origin to the destination, or like playing a game and figuring out the next move.
+### Projects
+* [Degrees](https://github.com/nockifathi/AI50/tree/master/degrees)
+* [Tictactoe](https://github.com/nockifathi/AI50/tree/master/tictactoe)
 ### Concepts
 * **Agent**: entity that perceives its environment and acts upon that environment.
 * **State**: a configuration of the agent and its environment.
@@ -26,6 +30,10 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 
 
 ## Lecture 1: Knowledge
+Representing information and drawing inferences from it.
+### Projects
+* [Knights](https://github.com/nockifathi/AI50/tree/master/knights)
+* [Minesweeper](https://github.com/nockifathi/AI50/tree/master/minesweeper)
 ### Concepts
 * **Sentence**: an assertion about the world in a knowledge representation language.
 * **Knowledge base**: a set of sentences known by a knowledge-based agent.
@@ -40,6 +48,9 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 
 
 ## Lecture 2: Uncertainty
+Dealing with uncertain events using probability.
+### Projects
+* [Pagerank](https://github.com/nockifathi/AI50/tree/master/pagerank)
 ### Concepts
 * **Unconditional probability**: degree of belief in a proposition in the absence of any other evidence.
 * **Conditional probability**: degree of belief in a proposition given some evidence that has already been revealed.
