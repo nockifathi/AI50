@@ -39,7 +39,7 @@ Representing information and drawing inferences from it.
 * **Knowledge base**: a set of sentences known by a knowledge-based agent.
 * **Entailment**: a entails b if in every model in which sentence a is true, sentence b is also true.
 * **Inference**: the process of deriving new sentences from old ones.
-* **unctive normal form**: logical sentence that is a conjunction of clauses.
+* **Conjunctive normal form**: logical sentence that is a conjunction of clauses.
 * **First order logic**: Propositional logic.
 * **Second order logic**: Proposition logic with universal and existential quantification.
 ### Algorithms
