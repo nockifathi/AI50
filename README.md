@@ -8,7 +8,7 @@ This course explores the concepts and algorithms at the foundation of modern art
 ## Notes
 I've taken some notes on key concepts and algorithms throughout the lectures for future reference.
 
-
+---------------------------------------
 ## Lecture 0: Search
 Finding a solution to a problem, like a navigator app that finds the best route from your origin to the destination, or like playing a game and figuring out the next move.
 ### Projects
@@ -28,7 +28,7 @@ Finding a solution to a problem, like a navigator app that finds the best route 
 * __A* search__: search algorithm that expands node with lowest value of the "cost to reach node" plus the "estimated goal cost".
 * **Minimax**: adversarial search algorithm.
 
-
+---------------------------------------
 ## Lecture 1: Knowledge
 Representing information and drawing inferences from it.
 ### Projects
@@ -46,7 +46,7 @@ Representing information and drawing inferences from it.
 * **Model checking**: enumerate all possible models and see if a proposition is true in every one of them.
 * **Conversion to CNF and Inference by resolution**
 
-
+---------------------------------------
 ## Lecture 2: Uncertainty
 Dealing with uncertain events using probability.
 ### Projects
