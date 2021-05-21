@@ -35,8 +35,8 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 * **First order logic**: Propositional logic.
 * **Second order logic**: Proposition logic with universal and existential quantification.
 ### Algorithms
-* **Model checking: enumerate all possible models and see if a proposition is true in every one of them.
-* **Conversion to CNF and Inference by resolution
+* **Model checking**: enumerate all possible models and see if a proposition is true in every one of them.
+* **Conversion to CNF and Inference by resolution**
 
 
 ## Lecture 2: Uncertainty
